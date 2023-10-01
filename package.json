@@ -19,6 +19,7 @@
   "homepage": "https://github.com/francisihe/Task-Manager-API#readme",
   "dependencies": {
     "express": "^4.18.2",
+    "mongoose": "^5.11.10",
     "nodemon": "^3.0.1"
   }
 }
