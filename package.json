@@ -1,0 +1,23 @@
+{
+  "name": "task-manager-api",
+  "version": "1.0.0",
+  "description": "NodeJS Task Manager API 1",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/francisihe/Task-Manager-API.git"
+  },
+  "author": "Francis Ihejirika",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/francisihe/Task-Manager-API/issues"
+  },
+  "homepage": "https://github.com/francisihe/Task-Manager-API#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1"
+  }
+}
