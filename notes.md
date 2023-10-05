@@ -39,3 +39,11 @@
 15. Install the dotenv package, refactor the code to use the url string in the connectDB. In your .env file, input the key and the value of the connection string; remove it from connect.js.
 
 16. 
+
+
+// Detour
+
+- Check JWT on the backend
+- Compare bcrypt and simple crypt. (bycryptjs for Node)
+- Check CORS 
+- Check cookie-parser
